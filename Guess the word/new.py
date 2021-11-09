@@ -9,7 +9,7 @@ print("hello there",  name)
 print("lets play a game")
 #here the progam asks the user for his name 
 
-words = ("angry", "portal","computer", "banana", "orange", "asshole", "bitch", "whore")
+words = ("angry", "portal","computer", "banana", "orange", "astronaut", "in", "the", "ocean")
 #create a tuple of words for the program to chose from 
 
 word = random.choice(words)
